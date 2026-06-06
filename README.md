@@ -119,16 +119,6 @@ Related:
     ├── dtype         -- describes element data type
     ├── ufunc         -- vectorised math functions
     └── nditer        -- iterator for multi-dimensional arrays
-```
-
----
-
-## References
-
-- https://numpy.org/doc/stable/
-- https://numpy.org/doc/stable/user/basics.subclassing.html
-- https://github.com/numpy/numpy
-- https://realpython.com/python3-object-oriented-programming/
 
 ---
 
